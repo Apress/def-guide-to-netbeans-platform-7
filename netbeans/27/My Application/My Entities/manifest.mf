@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.galileo.netbeans.myentities
+OpenIDE-Module-Localizing-Bundle: com/galileo/netbeans/myentities/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

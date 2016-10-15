@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+
+    <folder name="Services">
+       <file name="com-galileo-netbeans-module-ServImp.instance">
+          <attr name="position" intvalue="10"/>
+       </file>
+       <file name="com-galileo-netbeans-module-ServImp2.instance">
+          <attr name="position" intvalue="20"/>
+       </file>
+    </folder>
+
+</filesystem>

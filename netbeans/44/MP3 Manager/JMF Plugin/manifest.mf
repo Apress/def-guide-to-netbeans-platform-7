@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: javax.media
+OpenIDE-Module-Install: javax/media/Installer.class
+OpenIDE-Module-Localizing-Bundle: javax/media/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

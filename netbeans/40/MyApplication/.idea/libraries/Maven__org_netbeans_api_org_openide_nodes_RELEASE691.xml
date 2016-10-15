@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.netbeans.api:org-openide-nodes:RELEASE691">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/api/org-openide-nodes/RELEASE691/org-openide-nodes-RELEASE691.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/api/org-openide-nodes/RELEASE691/org-openide-nodes-RELEASE691-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/api/org-openide-nodes/RELEASE691/org-openide-nodes-RELEASE691-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

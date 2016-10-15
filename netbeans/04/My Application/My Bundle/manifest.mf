@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-Activator: com.galileo.netbeans.bundle.Installer
+Bundle-Localization: com/galileo/netbeans/bundle/Bundle
+Bundle-Name: %OpenIDE-Module-Name
+Bundle-SymbolicName: com.galileo.netbeans.bundle
+Bundle-Version: 1.0
+Import-Package: org.osgi.framework
+

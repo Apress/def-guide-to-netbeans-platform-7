@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+   <folder name="Editors">
+      <folder name="text">
+         <folder name="x-manifest">
+            <file name="ManifestPalette.instance">
+               <attr name="instanceOf" stringvalue="org.netbeans.spi.palette.PaletteController"/>
+               <attr name="instanceCreate" methodvalue="com.galileo.netbeans.module.ManifestPalette.createPalette"/>
+            </file>
+         </folder>
+      </folder>
+   </folder>
+   <folder name="ManifestPalette">
+      <folder name="Basic">
+         <attr name="isExpanded" boolvalue="true"/>
+         <file name="ModuleName.xml" url="items/ModuleName.xml"/>
+      </folder>
+      <folder name="Versioning">
+         <attr name="isExpanded" boolvalue="true"/>
+         <file name="ModuleSpecVersion.xml" url="items/ModuleSpecVersion.xml"/>
+         <file name="ModuleImplVersion.xml" url="items/ModuleImplVersion.xml"/>
+      </folder>
+   </folder>
+</filesystem>

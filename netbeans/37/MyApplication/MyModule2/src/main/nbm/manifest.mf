@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: com/galileo/netbeans/mymodule2/Bundle.properties
+OpenIDE-Module-Layer: com/galileo/netbeans/mymodule2/layer.xml

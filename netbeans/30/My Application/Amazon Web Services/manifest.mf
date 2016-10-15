@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.amazon
+OpenIDE-Module-Localizing-Bundle: com/amazon/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

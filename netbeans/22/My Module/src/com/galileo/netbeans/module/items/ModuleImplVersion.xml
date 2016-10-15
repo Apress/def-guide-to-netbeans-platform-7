@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor_palette_item PUBLIC 
+"-//NetBeans//Editor Palette Item 1.1//EN" 
+"http://www.netbeans.org/dtds/editor-palette-item-1_1.dtd">
+
+<editor_palette_item version="1.1">
+  <class name="com.galileo.netbeans.module.items.ModuleImplVersion"/>
+  <icon16 urlvalue="com/galileo/netbeans/module/resources/ModuleImplVersion16.png"/>
+  <icon32 urlvalue="com/galileo/netbeans/module/resources/ModuleImplVersion32.png"/>
+  <inline-description>
+     <display-name>Implementation Version</display-name>
+     <tooltip>Implementation Version</tooltip>
+  </inline-description>
+<!-- alternatively
+  <description
+     localizing-bundle = "com.galileo.netbeans.module.Bundle"
+     display-name-key="DISPLAY"
+     tooltip-key="TOOLTIP"/>
+-->
+</editor_palette_item>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.galileo.netbeans.bundle">
+    <module_version install_time="1296817714362" last="true" origin="installer" specification_version="">
+        <file crc="3758633855" name="com.galileo.netbeans.bundle-1.0.jar"/>
+        <file crc="3410536401" name="config/Modules/com-galileo-netbeans-bundle.xml"/>
+    </module_version>
+</module>

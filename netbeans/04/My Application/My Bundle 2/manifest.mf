@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-Localization: com/galileo/netbeans/bundle2/Bundle
+Bundle-Name: %OpenIDE-Module-Name
+Bundle-SymbolicName: com.galileo.netbeans.bundle2
+Bundle-Version: 1.0
+

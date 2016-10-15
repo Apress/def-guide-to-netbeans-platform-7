@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+   <folder name="MyFolder">
+      <file name="MyFile">
+         <attr name="a" intvalue="2"/>
+         <attr name="b" intvalue="3"/>
+      </file>
+   </folder>
+</filesystem>

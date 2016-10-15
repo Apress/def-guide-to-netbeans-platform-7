@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+   <folder name="Navigator">
+      <folder name="Panels">
+         <folder name="audio">
+            <folder name="mpeg">
+               <file name="com-galileo-netbeans-mp3navigator-Mp3AlbumNavigatorPanel.instance"/>
+            </folder>
+         </folder>
+      </folder>
+   </folder>
+</filesystem>

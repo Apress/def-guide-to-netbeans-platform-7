@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+   <folder name="TaskList">
+      <folder name="Groups">
+         <file name="LoggingTaskGroup.instance">
+            <attr name="instanceCreate" methodvalue="org.netbeans.spi.tasklist.Task.createGroup"/>
+            <attr name="localizingBundle" stringvalue="com.galileo.netbeans.module.Bundle"/>
+            <attr name="groupName" stringvalue="logging-tasklist"/>
+            <attr name="diplayNameKey" stringvalue="LBL_logginggroup"/>
+            <attr name="descriptionKey" stringvalue="HINT_logginggroup"/>
+            <attr name="iconKey" stringvalue="ICON_logging"/>
+            <attr name="position" intvalue="400"/>
+         </file>
+      </folder>
+      
+      <folder name="Scanners">
+         <file name="LoggingTaskScanner.instance">
+            <attr name="instanceOf" stringvalue="org.netbeans.spi.tasklist.FileTaskScanner"/>
+            <attr name="instanceCreate" methodvalue="com.galileo.netbeans.module.LoggingTaskScanner.create"/>
+         </file>
+      </folder>
+   </folder>
+</filesystem>

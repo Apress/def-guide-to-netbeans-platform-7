@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+   <!--
+   <folder name="Menu">
+      <folder name="User"/>
+            <file name="com-galileo-netbeans-module-user-MyUserAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/User/com-galileo-netbeans-module-user-MyUserAction.instance"/>
+                <attr name="position" intvalue="1000"/>
+            </file>
+      </folder>
+   </folder>
+   -->
+</filesystem>

@@ -1,0 +1,8 @@
+LoginJaas {
+com.sun.security.auth.module.LdapLoginModule REQUIRED
+userProvider="ldap://localhost:10389"
+authIdentity="uid={USERNAME},ou=users,ou=system"
+useSSL=false
+debug=true;
+};
+

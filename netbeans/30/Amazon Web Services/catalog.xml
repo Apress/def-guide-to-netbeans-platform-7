@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://webservices.amazon.com/AWSECommerceService/DE/AWSECommerceService.wsdl" uri="xml-resources/web-service-references/AWSECommerceService/wsdl/webservices.amazon.com/AWSECommerceService/DE/AWSECommerceService.wsdl"/>
+</catalog>

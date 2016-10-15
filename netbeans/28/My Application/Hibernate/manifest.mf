@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.hibernate
+OpenIDE-Module-Install: org/hibernate/Installer.class
+OpenIDE-Module-Localizing-Bundle: org/hibernate/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.galileo.netbeans.mp3navigator
+OpenIDE-Module-Localizing-Bundle: com/galileo/netbeans/mp3navigator/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Layer: com/galileo/netbeans/mp3navigator/layer.xml

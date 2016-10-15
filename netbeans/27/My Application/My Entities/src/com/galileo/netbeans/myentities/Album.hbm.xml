@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+   "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+   "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.galileo.netbeans.myentities">
+
+   <class name="Album" table="Album" lazy="true">
+      <id name="id">
+         <generator class="increment"/>
+      </id>
+
+      <many-to-one name="genre" lazy="false" fetch="join"/>
+      
+      <property name="title" 
+                not-null="true"
+                length="30"
+                column="title"/>
+      <property name="tracks" 
+                not-null="true"
+                length="30"
+                column="tracks"/>
+      <property name="cds" 
+                not-null="true"
+                length="30"
+                column="cds"/>
+      <property name="year" 
+                not-null="true"
+                length="30"
+                column="years"/>
+   </class>
+   
+</hibernate-mapping>

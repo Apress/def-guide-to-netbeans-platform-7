@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.galileo.netbeans.module.admin
+OpenIDE-Module-Layer: com/galileo/netbeans/module/admin/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/galileo/netbeans/module/admin/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

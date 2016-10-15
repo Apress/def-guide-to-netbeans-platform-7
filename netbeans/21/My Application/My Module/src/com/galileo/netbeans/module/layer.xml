@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="MyItems">
+       <folder name="Techno, Trance, Dance">
+         <file name="album1.xml" url="album1.xml"/>
+         <file name="album2.xml" url="album1.xml"/>
+         <file name="album3.xml" url="album1.xml"/>
+         <file name="album4.xml" url="album1.xml"/>
+       </folder>
+    </folder>
+</filesystem>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is Metro/2.1 (branches/2.1-6728; 2011-02-03T14:14:58+0000) JAXWS-RI/2.2.3 JAXWS/2.2. --><xs:schema xmlns:tns="http://service.netbeans.galileo.com/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://service.netbeans.galileo.com/">
+
+<xs:element name="addProduct" type="tns:addProduct" />
+
+<xs:element name="addProductToCart" type="tns:addProductToCart" />
+
+<xs:element name="getAmountOfCart" type="tns:getAmountOfCart" />
+
+<xs:element name="getAmountOfCartResponse" type="tns:getAmountOfCartResponse" />
+
+<xs:element name="getProducts" type="tns:getProducts" />
+
+<xs:element name="getProductsResponse" type="tns:getProductsResponse" />
+
+<xs:element name="getSumOfCart" type="tns:getSumOfCart" />
+
+<xs:element name="getSumOfCartResponse" type="tns:getSumOfCartResponse" />
+
+<xs:complexType name="getProducts">
+<xs:sequence />
+</xs:complexType>
+
+<xs:complexType name="getProductsResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:product" minOccurs="0" maxOccurs="unbounded" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="product">
+<xs:sequence>
+<xs:element name="id" type="xs:long" minOccurs="0" />
+<xs:element name="name" type="xs:string" minOccurs="0" />
+<xs:element name="orderId" type="xs:string" minOccurs="0" />
+<xs:element name="price" type="xs:double" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="addProduct">
+<xs:sequence>
+<xs:element name="product" type="tns:product" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getAmountOfCart">
+<xs:sequence />
+</xs:complexType>
+
+<xs:complexType name="getAmountOfCartResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:int" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="addProductToCart">
+<xs:sequence>
+<xs:element name="product" type="tns:product" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getSumOfCart">
+<xs:sequence />
+</xs:complexType>
+
+<xs:complexType name="getSumOfCartResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:double" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+</xs:schema>

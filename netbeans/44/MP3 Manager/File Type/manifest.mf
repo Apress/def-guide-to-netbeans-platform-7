@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.hboeck.mp3manager.filetype
+OpenIDE-Module-Layer: com/hboeck/mp3manager/filetype/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/hboeck/mp3manager/filetype/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
